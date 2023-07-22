@@ -1,0 +1,49 @@
+body {
+  font-family:  Helvetica, 'Comic Sans MS', Arial, sans-serif;
+}
+
+.title,
+.subtitle {
+  text-align: center;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.subtitle {
+  margin-top: 5px;
+  font-size: 24px;
+}
+
+.q1 {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.yes,
+.no {
+  margin-top: 50px;
+  width: 300px;
+  height: 150px;
+}
+
+.yes {
+  margin-right: 250px;
+  background-color: green;
+  border-style: none;
+  color: white;
+}
+
+.no {
+  background-color: red;
+  border-style: none;
+  color: white;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  height: auto;
+  max-width: 100%;
+}
