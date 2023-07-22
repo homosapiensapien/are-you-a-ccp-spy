@@ -23,6 +23,7 @@ body {
 
 .yes,
 .no {
+  font-size: 24px;
   margin-top: 50px;
   width: 300px;
   height: 150px;
